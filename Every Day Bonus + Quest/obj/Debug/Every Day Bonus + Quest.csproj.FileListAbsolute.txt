@@ -1,0 +1,10 @@
+D:\EverYDayBonus\Every Day Bonus + Quest\Every Day Bonus + Quest\bin\Debug\Every Day Bonus + Quest.exe.config
+D:\EverYDayBonus\Every Day Bonus + Quest\Every Day Bonus + Quest\bin\Debug\Every Day Bonus + Quest.exe
+D:\EverYDayBonus\Every Day Bonus + Quest\Every Day Bonus + Quest\bin\Debug\Every Day Bonus + Quest.pdb
+D:\EverYDayBonus\Every Day Bonus + Quest\Every Day Bonus + Quest\obj\Debug\Every Day Bonus + Quest.csproj.AssemblyReference.cache
+D:\EverYDayBonus\Every Day Bonus + Quest\Every Day Bonus + Quest\obj\Debug\Every_Day_Bonus___Quest.Form1.resources
+D:\EverYDayBonus\Every Day Bonus + Quest\Every Day Bonus + Quest\obj\Debug\Every_Day_Bonus___Quest.Properties.Resources.resources
+D:\EverYDayBonus\Every Day Bonus + Quest\Every Day Bonus + Quest\obj\Debug\Every Day Bonus + Quest.csproj.GenerateResource.cache
+D:\EverYDayBonus\Every Day Bonus + Quest\Every Day Bonus + Quest\obj\Debug\Every Day Bonus + Quest.csproj.CoreCompileInputs.cache
+D:\EverYDayBonus\Every Day Bonus + Quest\Every Day Bonus + Quest\obj\Debug\Every Day Bonus + Quest.exe
+D:\EverYDayBonus\Every Day Bonus + Quest\Every Day Bonus + Quest\obj\Debug\Every Day Bonus + Quest.pdb
